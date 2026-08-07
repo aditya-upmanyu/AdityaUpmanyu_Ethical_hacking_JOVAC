@@ -11,7 +11,7 @@
 | **Date** | July 25, 2026 |
 | **File Analyzed** | traffic.pcapng |
 
----
+
 
 ## Objective
 
