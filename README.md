@@ -119,7 +119,7 @@ To perform a comprehensive forensic analysis of a real-world network packet capt
 - **Protocol Stack:** eth → ethertype → ip → udp → **DNS**
 - **Answer:** **DNS**
 
----
+
 
 ### E12 — Destination IP Address in Packet Number 416
 - **Wireshark Filter:** `frame.number == 416`
